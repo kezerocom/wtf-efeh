@@ -1,8 +1,8 @@
-# UFEH Documentation (wtf-ufeh)
+# UFEH Documentation (wtf‑ufeh — What The Fun, Unnamed Featured HTML)
 
 ## What is UFEH
 
-UFEH is an extension of HTML that adds reactivity, componentization, and server‑side logic without requiring bundlers or additional configuration. Processing happens on the server and the result is delivered fully rendered to the client.
+UFEH (Unnamed Featured HTML) is an extension of HTML that adds reactivity, componentization, and server‑side logic without requiring bundlers or additional configuration. The npm package `wtf-ufeh` (where **wtf** is a playful prefix – think “What The Fun” – and UFEH stands for Unnamed Featured HTML) provides the command‑line tool. Processing happens on the server and the result is delivered fully rendered to the client.
 
 ## Installation and usage
 
